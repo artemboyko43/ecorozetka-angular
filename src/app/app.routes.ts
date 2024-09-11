@@ -7,6 +7,6 @@ import { PublicOfferComponent } from './public-offer/public-offer.component';
 export const routes: Routes = [
     { path: '', component: HomeComponent },
     { path: 'contacts', component: ContactsComponent },
-    { path: 'private-policy', component: PrivatePolicyComponent },
+    { path: 'privacy-policy', component: PrivatePolicyComponent },
     { path: 'public-offer', component: PublicOfferComponent },
 ];
