@@ -9,6 +9,6 @@ export const routes: Routes = [
     { path: '', component: HomeComponent },
     { path: 'contacts', component: ContactsComponent },
     { path: 'privacy-policy', component: PrivatePolicyComponent },
-    { path: 'public-offer', component: PublicOfferComponent },
+    // { path: 'public-offer', component: PublicOfferComponent },
     { path: 'public-access-agreement', component: PublicAccessAgreementComponent },
 ];
